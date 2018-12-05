@@ -4,9 +4,8 @@ College Major Analysis - Regression Models
 # Data
 A codebook for the dataset is given below:
 
-rank: Rank by median earnings
-
-major_code: Major code
+*rank: Rank by median earnings
+*major_code: Major code
 
 major: Major description
 
